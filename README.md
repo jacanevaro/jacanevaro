@@ -22,6 +22,6 @@ Some of the programming languages and tools I've been using as part of my Data S
 - Tools: `Jupyter`, `RStudio`, `Spyder`,`MySQL`
 
 - <!-- START CREDLY BADGES -->
-- <!-- END CREDLY BADGES -->
+ <!-- END CREDLY BADGES -->
 
 
