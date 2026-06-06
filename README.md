@@ -21,4 +21,7 @@ Some of the programming languages and tools I've been using as part of my Data S
 - Libraries: `pandas`, `NumPy`, `scikit-learn`, `matplotlib`, `seaborn`
 - Tools: `Jupyter`, `RStudio`, `Spyder`,`MySQL`
 
+- <!-- START CREDLY BADGES -->
+- <!-- END CREDLY BADGES -->
+
 
