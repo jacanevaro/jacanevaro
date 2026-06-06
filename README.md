@@ -21,7 +21,6 @@ Some of the programming languages and tools I've been using as part of my Data S
 - Libraries: `pandas`, `NumPy`, `scikit-learn`, `matplotlib`, `seaborn`
 - Tools: `Jupyter`, `RStudio`, `Spyder`,`MySQL`
 
-<!--START_BADGES:badges-->
-<!--END_BADGES:badges-->
+<img src="https://credly-readme-stats.onrender.com/api/overview?username=james-canevaro" alt="james_canevaro's Credly overview card"/>
 
 
