@@ -1,0 +1,27 @@
+name: Update Credly Badges
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Update Credly Badges
+        uses: jd-35656/readme-credly-badges@v1
+        with:
+          credly_username: 'james-canevaro'
+          badge_size: '150x150'
+          badge_sort_by: 'issued'
+          github_api_url: 'https://api.github.com'
+          github_token: ${{ secrets.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 }}
+          github_repo: ${{ github.jacanevaro }}
+          github_branch: 'main'
+          readme_file: 'README.md'
+          commit_message: 'Updated README with Credly badges'
